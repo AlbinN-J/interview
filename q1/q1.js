@@ -1,6 +1,6 @@
 
 
-var n=37
+var n=51
 
 console.log("Cash owes to customer: "+n);
 
